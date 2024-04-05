@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m currently working on **Social media web Application**
+- 🔭 I’m currently working with Accenture 
 
 - 🌱 I’m currently learning **React**
 
