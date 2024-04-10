@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Singh</h1>
-    <p align="center"  style="display: inline-block; margin-left: 100px; font-size:1.2rem; font-weight: bold; font-family: Graphik, sans-serif; font-size:24px;">
-     <b >Application developer at</b> : 
-    <a href="https://www.accenture.com/us-en" target="_blank">
-      <img src="https://www.clipartmax.com/png/full/358-3584776_im-excited-to-announce-that-i-have-accepted-a-full-time-accenture.png" alt="Accenture" width="100" height="30" style="margin-left: 5px;">
-    </a>
-</p>
+<h3 align="center">Application developer at Accenture</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naiveashish&label=Profile%20views&color=0e75b6&style=flat" alt="naiveashish" /> </p>
 
